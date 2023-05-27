@@ -3,7 +3,7 @@
 
 This is a Streamlit app that allows users to upload CSV, Excel, or JSON files and view their contents using pandas. It also provides the ability to run queries on the uploaded data using the OpenAI API.
 
-## Installation
+## Installation:
 
 1. Clone the repository:
 
